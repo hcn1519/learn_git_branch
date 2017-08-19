@@ -1,0 +1,29 @@
+Step1.
+Make new branch named ‘develop’ from ‘master’ branch.
+
+Step2.
+Open up ‘master.txt’ and add this line.
+
+‘Modified from develop’
+
+Step3.
+Add this file to your project.
+
+
+Oops, you forgot to merge ‘test1’ to ‘master’ before making ‘develop’ branch. You need to fix it.
+
+Step3.
+Merge ‘test1’ to ‘master’ by using Pull Request.
+
+Step4.
+Now, you need to update your ‘develop’ branch. 
+- 1. You need to save your work by using stash.
+- 2. Update your local master branch. 
+- 3. Pop your work before merge.
+- 4. Merge your master with ‘develop’.
+
+Step5.
+Make ‘test3’ branch from ‘develop’ and add this file.
+
+Step6.
+Push your work to ‘origin/test3’ and merge it to ‘develop’ branch!
