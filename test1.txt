@@ -1,0 +1,8 @@
+Step1.
+Make ‘test1’ Branch.
+
+Step2.
+Add this file named ‘test1.txt’
+
+Step3.
+Merge this file to Master(Note: Do not use merge directly. Instead, Use PullRequest)
