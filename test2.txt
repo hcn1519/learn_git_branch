@@ -1,0 +1,20 @@
+Step1.
+Go to(Checkout) test1 branch.
+
+Step2.
+Pull from master branch.
+
+Step3.
+Make new branch named ‘test2’ from ‘test1’ branch.
+
+How to do it?
+https://stackoverflow.com/questions/4470523/create-a-branch-in-git-from-another-branch
+
+Step4.
+Add this file to project.
+
+Step5.
+Push this branch to origin/test2.
+
+Step6.
+Merge origin/test1(base) and origin/test2.
